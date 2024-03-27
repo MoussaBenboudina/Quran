@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+  .active ,
+  .rhap_progress-indicator,
+  .rhap_progress-filled{
+    background-color:#ec1f55 !important;
+  }
+
+   .rhap_progress-section ,
+   .rhap_progress-indicator ,
+   .rhap_container svg ,
+     path {
+    color: #ec1f55 !important;
+  }
